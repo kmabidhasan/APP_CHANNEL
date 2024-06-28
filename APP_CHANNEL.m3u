@@ -1,6 +1,6 @@
-#EXTM3U × StreamFy BD (Abid Hasan) (Arup) (Joyesh Biswas) (Kasi)
+#EXTM3U × StreamFy BD (Abid Hasan) (Arup) (Joyesh Biswas) (Kasin)
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTM3U x-tvg-url="EPG"
+#EXTM3U x-tvg-url="http://tv.digitalview.live:8080/xmltv.php?username=tawhidbdix2&password=9483847327347"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="StreamFyBD", t.me/StreamFyBD
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
@@ -68,6 +68,8 @@ https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOLKATA ENTERTAINMENT", SUN BANGLA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KOLKATA ENTERTAINMENT", SANANDA TV
+https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS", KHUSHBOO BANGLA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
@@ -112,6 +114,8 @@ https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", COLORS HD
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", STAR GOLD THRILLS
+https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", &TV HD
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", SONY PAL HD
@@ -126,6 +130,8 @@ https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", COLORS CINEPLEX HD
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", COLORS BOLLYWOOD
+https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", & PICTURE TV
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", STAR GOLD SELECT HD
@@ -136,17 +142,23 @@ https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", B4U MOVIE
 https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", GOLDMINE 
+https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", GOLDMINE BOLLYWOOD 
+https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA ENTERTAINMENT", 
+https://fmrx.short.gy/Joint @StreamFyBD/StreamFy_BD.m3u8
 
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
                    ADMIN ARUP Responsibility group
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE BANGLA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE BANGLA
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE ENGLISH
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE BANGLA
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", COPA AMERICA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE BANGLA
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", UEFE EURO
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT", TOFFEE BANGLA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
@@ -254,6 +266,8 @@ https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLADESHI ENTERTAINMENT", MOVIE BANGLA
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLADESHI ENTERTAINMENT", EKHON TV
+https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOUS", PEACE TV
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
@@ -320,6 +334,8 @@ https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", EURO SPORTS HD
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", PRIME SPORTS
+https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", BEIN SPORTS
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INFOTAINMENT", NEXUS TV
