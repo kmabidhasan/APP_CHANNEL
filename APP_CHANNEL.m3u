@@ -2,7 +2,7 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://tobalan.github.io/epg.xml.gz"
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
