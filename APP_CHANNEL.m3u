@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url=""
+
+
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="69474" tvg-id="" tvg-name="SOMOY TV" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEeo8W4WhcySoxdDyF2fYKnivK7swX9WePO8FyfiFM5Tw.png" group-title="BD | Bangla",SOMOY TV
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh2_uxWD4pFeOu9yBmPAy0t/ts
