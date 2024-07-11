@@ -7,14 +7,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="𝗖𝗘𝗢 𝗔𝗕𝗜𝗗 𝗛𝗔𝗦𝗔𝗡", t.me/StreamFyBD
 https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="মইরা যাবো", AMAR BANGLA
-https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="মইরা যাবো", AMAR DIGITAL
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="মইরা যাবো", BANGLA PLUS
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="মইরা যাবো", MOON BANGLA
-https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IND | Bangla",Jalsha Movies SD
+https://s.id/Ferdos-Live-Tv-Jalsha-movies-sd-m3u8
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
